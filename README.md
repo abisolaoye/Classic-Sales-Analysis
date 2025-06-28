@@ -25,11 +25,12 @@ Import dataset.
 
 ## INSIGHTS
 
-Classic Cars had the highest sales in 2004.
-MMD product line had the highest sales
+- Classic Cars had the highest sales in 2004.
+- MMD product line had the highest sales
 
 # RECOMMENDATIONS
-Classic cars should invest more in making mmd reach more customers Classic cars should invest more in making mmd reach more customers.
+- Classic cars should invest more in making mmd reach more customers.
+- Classic cars should invest more in making mmd reach more customers.
 
 
 
