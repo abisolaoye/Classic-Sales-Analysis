@@ -8,7 +8,7 @@ This shows the analysis of sales for the past three years for classic cars.
 2- To determine performance over the 3 years of sales.
 
 # STEPS
-Installation of python, visual studio code and jupyter notebook
+Installation of python [download here](#insights) , visual studio code and jupyter notebook
 Import dataset.
 2- Handling missing values
 3- Converting data types
